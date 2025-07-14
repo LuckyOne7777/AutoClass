@@ -27,7 +27,7 @@ Say you want to make the class `Test` and include the variables `y`, `z`.
   ## Using in the Terminal:
 
   ### Input:
-  ```python
+  ```bash
   python autoclass.py Test y z
   ```
   ### Output:
@@ -41,7 +41,7 @@ Say you want to make the class `Test` and include the variables `y`, `z`.
 
 ## Plans
 Of course right now it's a very simple tool, but if it saves even one person some time, I think it was worth making. 
-I'm definately planning on adding more features, so stay tuned!
+I'm definitely planning on adding more features, so stay tuned!
 - Make it Pip Installable
 - Other Stuff Too
 ### Contact

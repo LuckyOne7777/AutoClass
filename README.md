@@ -8,7 +8,7 @@ Simply provide the class name and all the variables, and you're set.
 
 Say you want to make the class `Test` and include the variables `y`, `z`.
 
-  ## Importing the File
+  ## Importing the File:
 
   ### Input:
   ```python

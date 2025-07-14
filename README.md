@@ -46,5 +46,5 @@ I'm definitely planning on adding more features, so stay tuned!
 - Other Stuff Too
 ### Contact
 Feel free to reach out if you have a question or an idea!
-(Yes, the license was *very* necessary.)
+(Yes, the license was necessary.)
 #### Email: nathanbsmith729@gmail.com
